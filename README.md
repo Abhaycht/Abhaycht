@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay</h1>
 - 🔭 I’m currently working on **My own Blog website**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript and React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
