@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay</h1>
-- 🔭 I’m currently working on **My own Blog website**
+- 🔭 I’m currently working at Aizor Studio as Front-end developer
 
 - 🌱 I’m currently learning **Javascript and React**
 
